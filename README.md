@@ -1,4 +1,2 @@
 # INFO6210-project-ZW2019
-Info6210 database project-baseball database 
-
-Our project is a baseball database. The 
+Our project is a baseball database. Firstly, we build a conceptual model to set up a relationship between people, thing and place.In our database, the player and fan represent people, team represents thing and location represents place. Then we add some tables to make many to many relationship more clear to refine the model. We complete the attributes of every entity and finish the physical model. Next, we use tweepy and instaloader to collect data from Ins and Twitter and do the posts tagging. After that, we do the data munging, tags processing and import the whole data into mysql. Fianlly, we write the use case, views, functions according to our database.
