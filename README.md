@@ -3,7 +3,11 @@ Our project is a baseball database. Firstly, we build a conceptual model to set 
 
 Files:
 1.code:includes Python code of using Instaloader and Tweepy to acquire data and do the tagging.
+
 2.sample data for every table: we screenshot some data from every table.
+
 3.data: includes all the data collected from twitter and ins, the total is 36 tables.
+
 4.Final Report: a complete report describe the whole procedure. SQL queries, views and functions are in this file.
+
 5.ERD:the entity relationship diagram.
